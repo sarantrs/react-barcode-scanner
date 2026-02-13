@@ -123,11 +123,6 @@ const Login = () => {
             </Alert>
           )}
 
-          {/* Demo credentials hint */}
-          <Alert severity="info" sx={{ mb: 2 }}>
-            Demo credentials: <strong>demo</strong> / <strong>demo123</strong>
-          </Alert>
-
           {/* Login Form */}
           <Box component="form" onSubmit={handleSubmit}>
             <TextField
