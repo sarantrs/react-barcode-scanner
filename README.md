@@ -42,7 +42,7 @@ Password: demo123
 
 ### Option 1: One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/react-barcode-scanner)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sarantrs/react-barcode-scanner)
 
 ### Option 2: Import from GitHub
 
